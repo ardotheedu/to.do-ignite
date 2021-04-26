@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="move.it" title="move.it" src="./public/logo.svg" />
+  <img alt="to.do" title="to.do" src="./public/logo.svg" />
 </h1>
 </p>
 
@@ -21,14 +21,14 @@ Keep track of your activies with to.do
 
 ## Features
 
-A few of the things you can do with go-finances:
+A few of the things you can do with to.do:
 
 * Add to-do
 * Complete to-do
 * Remove to-do
 
 <p align="center">
-  <img src = "./.github/video.mp4" width=700>
+  <img src = ".github/to.do.gif" width=800>
 </p>
 
 ## How To Use
@@ -47,6 +47,6 @@ $ yarn
 # Run the app
 $ yarn dev
 ```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:8080](http://localhost:8080) with your browser to see the result.
 
 
