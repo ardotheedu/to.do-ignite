@@ -12,7 +12,7 @@
 
 ## Introduction
 
-Keep track of your activies with to.do
+Keep track of your actives with to.do
 
 ## Tecnologies
 
